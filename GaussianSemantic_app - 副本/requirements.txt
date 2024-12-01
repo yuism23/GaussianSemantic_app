@@ -1,0 +1,8 @@
+
+torchvision==0.20.1
+PyQt5==5.15.11
+Flask==2.2.3
+Flask-SocketIO==5.3.4
+eventlet==0.33.0
+opencv-python==4.7.0.72
+plyfile==1.1
